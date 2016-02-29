@@ -11,8 +11,8 @@ README = codecs.open('README.rst', encoding='utf-8').read()
 
 setup(
     name='splinter',
-    version='0.7.3',
-    url='https://github.com/cobrateam/splinter',
+    version='0.7.4-head-drernie',
+    url='https://github.com/drernie/splinter',
     description='browser abstraction for web acceptance testing',
     long_description=README,
     author='CobraTeam',
